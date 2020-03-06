@@ -1,0 +1,34 @@
+{
+  "SkyDragon组件": {
+    "git": "git@git.tongbanjie.com:tbj_tpl/sd-tpl-com.git",
+    "prefix": "sd-com-"
+  },
+  "Vue-Simple页面": {
+    "git": "git@git.tongbanjie.com:tbj_tpl/vue-page.git",
+    "prefix": ""
+  },
+  "React-H5页面": {
+    "git": "git@git.tongbanjie.com:tbj_tpl/xd-page.git",
+    "prefix": "",
+    "update": [
+      "./build",
+      "./readme.md"
+    ]
+  },
+  "SwitchPage-H5页面": {
+    "git": "git@git.tongbanjie.com:tbj_tpl/react-switchpage.git",
+    "prefix": ""
+  },
+  "sd-jugg模板": {
+    "git": "git@git.tongbanjie.com:tbj_tpl/sd-jugg.git",
+    "prefix": ""
+  },
+  "sd-luna模板": {
+    "git": "git@git.tongbanjie.com:tbj_tpl/sd-luna.git",
+    "prefix": ""
+  },
+  "sd-lina模板": {
+    "git": "git@git.tongbanjie.com:tbj_tpl/sd-lina.git",
+    "prefix": ""
+  }
+}
